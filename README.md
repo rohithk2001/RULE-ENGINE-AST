@@ -34,6 +34,8 @@ Ensure you have the following installed on your system:
 
 ```bash
 git clone https://github.com/rohithk2001/RULE-ENGINE-AST.git
+```
+```bash
 cd rule-engine-ast
 
 ```
