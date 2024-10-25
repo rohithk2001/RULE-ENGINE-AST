@@ -33,7 +33,7 @@ Ensure you have the following installed on your system:
 - Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/rohithk2001/RULE-ENGINE-AST.git
 cd rule-engine-ast
 
 ```
