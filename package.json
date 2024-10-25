@@ -1,0 +1,26 @@
+{
+  "name": "rule-engine-ast",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "jest": "^29.7.0",
+    "mongoose": "^8.7.2",
+    "nodemon": "^3.1.7",
+    "supertest": "^7.0.0"
+  },
+  "devDependencies": {
+    "@babel/preset-env": "^7.25.9",
+    "@babel/preset-react": "^7.25.9",
+    "@testing-library/react": "^16.0.1",
+    "babel-jest": "^29.7.0"
+  }
+}
