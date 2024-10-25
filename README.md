@@ -51,8 +51,12 @@ npm install
 npm start
 ```
 
-### Frontend Setup 
+### Frontend Setup
+- Open new terminal
 - Navigate to Frontend: 
+```bash
+cd rule-engine-ast
+```
 ```bash
 cd ruleenginefrontend
 
